@@ -1,0 +1,6 @@
+parameters:
+    database_host: localhost
+    database_port: null
+    database_name: pmta
+    database_user: user
+    database_password: password
