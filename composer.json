@@ -1,8 +1,19 @@
 {
+    "name": "amerom/pmta-log-handler",
+    "description": "Power MTA Bounce, Accounting, Receipts and generic log file handler",
+    "type": "project",
     "require": {
         "symfony/finder": "^4.0",
         "doctrine/common": "^2.8",
         "symfony/serializer": "^4.0",
         "symfony/yaml": "^4.0"
-    }
+    },
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Mihu",
+            "email": "mihai.enescu@ameromsoft.com"
+        }
+    ],
+    "minimum-stability": "stable"
 }
